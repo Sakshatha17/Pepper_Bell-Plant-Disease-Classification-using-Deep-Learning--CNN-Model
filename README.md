@@ -1,5 +1,5 @@
 # Pepper_Bell-Plant-Disease-Classification-using-Deep-Learning--CNN-Model
-## Pepper Bell Leaf whether it is Diseased or Healthy!
+# Pepper Bell Leaf whether it is Diseased or Healthy!
 | Model:- Classification | Domain:- Agricultural Industry | Internal Decisions |
 
 # Data Collection, Pre-processing :
