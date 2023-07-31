@@ -3,8 +3,8 @@
 | Model:- Classification | Domain:- Agricultural Industry | Internal Decisions |
 
 # Data Collection, Pre-processing :
--- In this project we have used ready-made data from Kaggle for training.
--- The dataset was downloaded and the directory was named as "PlantVillage".
+- In this project we have used ready-made data from Kaggle for training.
+- The dataset was downloaded and the directory was named as "PlantVillage".
 We launched GitBash which allows us to run all the unix command, which inturn launched Jupyter notebook.
 To download the dataset into tf dataset TF data input pipeline, followed by data cleaning and we made our dataset ready for Model Training.
 Essential modules were downloaded.
